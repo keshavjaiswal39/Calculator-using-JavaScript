@@ -11,8 +11,8 @@
 * CSS [style/Presentation]
 * Javascript [Logic/Working of calculator]
 
-or Just click here
+You can also just click here to check out its working
 
-* https://simple-calculator-keshav.netlify.app/ *
+### https://simple-calculator-keshav.netlify.app/
 
 
