@@ -6,8 +6,9 @@ body{
 #container{
     width: 1000px;
     height: 600px;
-    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(/Images/image3.png);
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(/Images/image1.png);
     margin: 50px auto;
+    border-radius: 50px;
 }
 
 #calculator{
