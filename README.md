@@ -15,7 +15,10 @@ You can also just click here to check out its working
 
 ### https://simple-calculator-keshav.netlify.app/
 
-#Credits:
-Special credit to Abarna
+
+
+# Credits :
+
+Special credit to [Abarna](https://github.com/abarna-codespot)
 
 
